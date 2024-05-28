@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_message_title">Falha ao buscar pokedex</string>
+    <string name="error_message_message">Tente novamente mais tarde</string>
+    <string name="try_again">Tentar novamente\n</string>
+    <string name="pokedex_title">Pokedex</string>
+</resources>
